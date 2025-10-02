@@ -14,4 +14,9 @@ E-Commerce Data Analytics Project
  Comprehensive analysis at Category, Sub-Category, and Customer Segment levels.
  Converts complex raw data into easy-to-understand insights for stakeholders.
 
-This project demonstrates Python programming, data manipulation, visualization, and business analytics skills, making it ideal for data analyst, business analyst, or data science roles.
+ 📂 Dataset
+
+ The dataset used in this project is [Sample-Superstore.csv](./Sample-Superstore(1).csv).  
+ It contains sales, profit, customer, and product information for e-commerce analysis.
+
+ This project demonstrates Python programming, data manipulation, visualization, and business analytics skills, making it ideal for data analyst, business analyst, or  data science roles.
